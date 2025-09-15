@@ -1,0 +1,5 @@
+{
+  "name": "P2P Wave",
+  "description": "A minimal, serverless, peer-to-peer messaging application using WebRTC DataChannels for secure, end-to-end encrypted communication. Generate or join a chat room via a simple link exchange.",
+  "requestFramePermissions": []
+}
