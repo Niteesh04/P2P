@@ -1,0 +1,16 @@
+{
+  "name": "P2P Wave",
+  "short_name": "P2P Wave",
+  "description": "A minimal, serverless, peer-to-peer messaging application using WebRTC DataChannels for secure, end-to-end encrypted communication.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#111827",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
